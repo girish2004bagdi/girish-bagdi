@@ -62,4 +62,4 @@ Designed a system to monitor water-borne diseases in rural Northeast India, prov
 ---
 
 ## ⚡ GitHub Stats
-![Girish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Girish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=girish2004bagdi&show_icons=true&theme=radical)  
